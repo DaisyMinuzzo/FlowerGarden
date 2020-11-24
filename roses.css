@@ -1,5 +1,46 @@
+@import url('https://fonts.googleapis.com/css2?family=Space+Grotesk&display=swap');
 
-			em {background:black;
-				color:white;}
-			li {margin-bottom:15px;}
+html, body {
+	margin:0;
+	font-family:"Space Grotesk";
+}
+
+
+em:hover {
+	text-decoration:underline;
+
+}
+
+	em {background:black;
+		color:white;}
+	li {margin-bottom:15px;}
+
+.menu {
+	background:rgba(255,0,0,1);	
+	position:fixed;
+	top:0;left:0;
+	width:100%;
+	height:50px;
+	cursor:pointer;
+	color:#FFF;
+}
+
+.menu.open {
+	height:100vh;
+}
+
+
+.menu:hover {
+	background:rgba(255,0,0,0.5);	
+}
+
+.double {
+	grid-column: span 2;
+}
+
+
+.shapeShift {
+	border-radius:50%;
+	background:indigo;
+}
 
