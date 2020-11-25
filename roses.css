@@ -73,6 +73,14 @@ a:hover {
     color:black;
   }
 
+a:visited {
+    color:white;
+  }
+
+a:active {
+    color:white;
+  }
+
 .menu {
 	background:rgba(170,0,0,1);	
 	position:fixed;
