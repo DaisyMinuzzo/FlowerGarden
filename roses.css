@@ -24,6 +24,10 @@ h3 {
 	color:black;
 }
 
+h3 {
+	color:rgba(170,0,0,0);
+}
+
 em:hover {
 	background:white;
 	color:black;
