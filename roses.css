@@ -61,25 +61,25 @@ img {
 
 a:link {
 	position:fixed;
-	top:16;right:17;
+	top:20;right:17;
 	color:black;
   }
 
 a:hover {
 	position:fixed;
-	top:16;right:17;
+	top:20;right:17;
 	color:white;
   }
 
 a:visited {
 	position:fixed;
-	top:16;right:17;
+	top:20;right:17;
 	color:black;
   }
 
 a:active {
 	position:fixed;
-	top:16;right:17;
+	top:20;right:17;
 	color:black;
   }
 
