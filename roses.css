@@ -2,6 +2,7 @@
 
 background-image {
 	margin:0;
+	position:fixed;
 }
 
 html, body {
