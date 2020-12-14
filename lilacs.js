@@ -1,7 +1,5 @@
 console.log('test')
 
-document.body.style.backgroundImage = "IMG_5122.jpg";
-
 $(".menu").click(function(){
 	$('.menu').toggleClass("open")
 })
