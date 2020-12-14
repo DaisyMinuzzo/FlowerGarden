@@ -6,6 +6,8 @@ background-image {
 
 html, body {
 	margin:5;
+	margin-top:15;
+	margin-bottom:15;
 	font-family:"Space Grotesk";
 	background: black;
 }
