@@ -20,12 +20,6 @@ h3 {
 	color:black;
 }
 
-h4 {
-	position:fixed;
-	top:16;right:17;
-	color:black;
-}
-
 em:hover {
 	background:white;
 	color:black;
@@ -66,19 +60,27 @@ img {
 }
 
 a:link {
-    color:white;
+	position:fixed;
+	top:16;right:17;
+	color:black;
   }
 
 a:hover {
-    color:black;
+	position:fixed;
+	top:16;right:17;
+	color:white;
   }
 
 a:visited {
-    color:white;
+	position:fixed;
+	top:16;right:17;
+	color:black;
   }
 
 a:active {
-    color:white;
+	position:fixed;
+	top:16;right:17;
+	color:black;
   }
 
 .menu {
