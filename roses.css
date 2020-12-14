@@ -1,5 +1,9 @@
 @import url('https://fonts.googleapis.com/css2?family=Space+Grotesk&display=swap');
 
+background-image {
+	margin:0;
+}
+
 html, body {
 	margin:5;
 	font-family:"Space Grotesk";
